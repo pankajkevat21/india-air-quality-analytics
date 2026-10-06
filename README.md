@@ -4,6 +4,9 @@ End-to-end data analytics project on 5 years of India AQI data (2015–2020, 26 
 
 - Dataset: Air Quality Data in India
 - - Daily records: 29,531 across 26 cities
+
+- - Dataset contains 29,531 daily air-quality records
+
 - Cities: 26
 - Date range: 2015-01-01 to 2020-07-01
 - Target: AQI
